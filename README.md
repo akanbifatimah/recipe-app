@@ -1,2 +1,3 @@
-# Recipe app created with react using hooks and axios
-
+# Recipe app created with react 
+used hooks, axios and deployed with firebase
+https://classicrecipe-app.web.app/
